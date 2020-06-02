@@ -1,1 +1,1 @@
-# MAFRIESE Securit repo
+# MAFRIESE Security repo
